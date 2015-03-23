@@ -58,6 +58,9 @@ $(document).ready(function($) {
 			var extraInfo = $(this).find(".extra-info");
 
 			if(!(extraInfo.is(":visible"))){
+				$(".item-holder div").removeClass('highlight');
+
+				$(this).addClass('highlight');
 				var allExtraInfo = $(".extra-info");
 
 				allExtraInfo.slideUp('slow', function() {});
