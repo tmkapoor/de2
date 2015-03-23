@@ -65,6 +65,9 @@ $(document).ready(function($) {
 
 				allExtraInfo.slideUp('slow', function() {});
 				extraInfo.slideDown('slow', function() {});
+				$('html,body').animate({
+		          scrollTop: $(this).offset().top
+		        }, "slow");
 			}
 		});
 	}
