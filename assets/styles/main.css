@@ -2,6 +2,7 @@
 body{
 	height: 100%;
 	width: 100%;
+	overflow-x: hidden;
 }
 cardlink{
 	background: #B2DFDB;
@@ -13,13 +14,18 @@ bold{
 	font-weight: bold;
 }
 
+img{
+	max-width: 100%;
+	height: auto;
+}
+
 /*Class based styling*/
 .headline{
 	font-size: 1.64em;
 }
 
 .floating{
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	background: white;
 	border-radius: 1em;

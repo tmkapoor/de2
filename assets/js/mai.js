@@ -64,11 +64,11 @@ $(document).ready(function($) {
 				var allExtraInfo = $(".extra-info");
 
 				allExtraInfo.slideUp('slow', function() {});
-				extraInfo.slideDown('slow', function() {
-					$('html,body').animate({
+				extraInfo.slideDown('slow', function() {});
+
+				$('html,body').animate({
 			          scrollTop: $(this).offset().top
 			        }, "slow");
-				});
 			}
 		});
 	}
