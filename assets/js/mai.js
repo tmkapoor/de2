@@ -51,4 +51,19 @@ $(document).ready(function($) {
 		});
 	}
 
+	if(page == "3"){
+		$(".timeline-scroll").height($(document).height() * 0.9);
+
+		$(".item-holder div").click(function(event) {
+			var extraInfo = $(this).find(".extra-info");
+
+			if(!(extraInfo.is(":visible"))){
+				var allExtraInfo = $(".extra-info");
+
+				allExtraInfo.slideUp('slow', function() {});
+				extraInfo.slideDown('slow', function() {});
+			}
+		});
+	}
+
 });

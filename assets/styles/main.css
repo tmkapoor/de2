@@ -89,4 +89,21 @@ bold{
 .highlight{
 	background: #E0F2F1;
 }
+
+.timeline-scroll{
+	background-image: url('scroll-line.png');
+    background-repeat: repeat-y;
+    background-position: center; 
+}
+
+.item-holder div{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.extra-info{
+	display: none;
+}
+
+
 /*Id based styling*/ 
