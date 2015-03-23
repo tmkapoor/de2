@@ -1,7 +1,92 @@
 /*Element based styling*/
+body{
+	height: 100%;
+	width: 100%;
+}
+cardlink{
+	background: #B2DFDB;
+	font-size: 1.16em;
+	cursor: pointer;
+}
+
+bold{
+	font-weight: bold;
+}
 
 /*Class based styling*/
 .headline{
 	font-size: 1.64em;
+}
+
+.floating{
+	position: fixed;
+	width: 100%;
+	background: white;
+	border-radius: 1em;
+	left: 100%;
+	top: 10%;
+	display: none;
+	z-index: 9999;
+}
+
+.floating div{
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.clickable{
+	cursor: pointer;
+}
+
+.back-button:hover{
+	color: white;
+	border-radius: 0.25em;
+	background: #232323;
+}
+
+.animated{
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition:  all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition:  all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.modal-bg{
+	display: none;
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	background: rgba(0,0,0,0.1);
+	top: 0;
+	left: 0;
+	z-index: 9996;
+}
+
+.time-article{
+	background: rgba(0,0,0,0.1);
+	border-radius: 0.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.dont-show{
+	 visibility: hidden;
+}
+
+.main-article{
+	background: #009688;
+	color: white;
+}
+
+.related-article{
+	background: #3F51B5;
+	color: white;
+}
+
+.highlight{
+	background: #E0F2F1;
 }
 /*Id based styling*/ 

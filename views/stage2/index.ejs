@@ -1,0 +1,37 @@
+<script type="text/javascript">
+	var page = "timeline";
+</script>
+<div class="col-md-12">
+
+<% articles.forEach(function(each){ %>
+<div class="col-md-12">
+	<div class="col-md-4 related dont-show" style="text-align: center;">
+		<% var relatedLeft = each.relatedLeft %>
+
+		<% relatedLeft.forEach(function(each){ %>
+			<div class="col-md-offset-1 col-md-5 time-article related-article clickable">
+				<p><%= each.title %></p>
+			</div>
+		<% }) %>
+
+	</div>
+	
+	<div class="col-md-4" style="text-align: center;">
+		<div class="time-article main-article clickable">
+			<p><%= each.title %></p>
+			<p><%= each.date %></p>
+		</div>
+	</div>
+	
+
+	<div class="col-md-4 related dont-show" style="text-align: center;">
+		<% var relatedRight = each.relatedRight %>
+		<% relatedRight.forEach(function(each){ %>
+		<div class="col-md-offset-1 col-md-5 time-article related-article clickable">
+			<p><%= each.title %></p>
+		</div>
+		<% }) %>
+	</div>
+</div>
+<% }) %>
+</div>

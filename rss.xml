@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - England</title>  
+    <link>http://www.bbc.co.uk/news/england/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the England section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Fri, 20 Mar 2015 10:26:18 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - England</title>  
+      <link>http://www.bbc.co.uk/news/england/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>UKIP claims 'couldn't look worse'</title>  
+      <description>Allegations of a "serious financial nature" against a UKIP MEP and general election candidate "couldn't look worse", Nigel Farage says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-kent-31982168#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-kent-31982168</guid>  
+      <pubDate>Fri, 20 Mar 2015 10:39:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81786000/jpg/_81786315_janiceatkinson.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81786000/jpg/_81786316_janiceatkinson.jpg"/> 
+    </item>  
+    <item> 
+      <title>Sex crime suspects 'need anonymity'</title>  
+      <description>The names of sex offence suspects in England and Wales should not be made public unless they are charged, a cross-party group of MPs says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-31970034#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-31970034</guid>  
+      <pubDate>Fri, 20 Mar 2015 09:54:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781751_005338169-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781752_005338169-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Richard III buried with village soil</title>  
+      <description>Soil from the village where Richard III was born will be placed in his coffin when he is reburied, after a donation from the owner of the former king's birthplace.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-northamptonshire-31965323#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-northamptonshire-31965323</guid>  
+      <pubDate>Fri, 20 Mar 2015 09:10:31 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81789000/jpg/_81789333_richardcomp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81789000/jpg/_81789334_richardcomp.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Breathtaking' solar eclipse occurs</title>  
+      <description>Millions of people in the UK and northern Europe have glimpsed the best solar eclipse in years, with large areas plunging into deep shadow.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-31965456#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-31965456</guid>  
+      <pubDate>Fri, 20 Mar 2015 10:13:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81788000/jpg/_81788138_caibq1kwgaati55.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81788000/jpg/_81788139_caibq1kwgaati55.jpg"/> 
+    </item>  
+    <item> 
+      <title>Multi-billion pound plans for rail</title>  
+      <description>Plans to overhaul transport across the North of England, including multi-billion pound rail schemes, are being laid out by the government later.</description>  
+      <link>http://www.bbc.co.uk/news/uk-31978631#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-31978631</guid>  
+      <pubDate>Fri, 20 Mar 2015 09:14:14 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81783000/jpg/_81783169_81782056.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81783000/jpg/_81783170_81782056.jpg"/> 
+    </item>  
+    <item> 
+      <title>Four accused of nightclub murder</title>  
+      <description>Four men have been charged with the murder of a man who was stabbed at a Coventry nightclub, West Midlands Police say.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-31979183#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-31979183</guid>  
+      <pubDate>Fri, 20 Mar 2015 05:57:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81785000/jpg/_81785205_danielk203.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81785000/jpg/_81785206_danielk203.jpg"/> 
+    </item>  
+    <item> 
+      <title>Mental health budgets 'cut by 8%'</title>  
+      <description>Mental health trusts in England have had their budgets cut by more than 8% in real terms over the course of this parliament, research suggests.</description>  
+      <link>http://www.bbc.co.uk/news/health-31970871#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-31970871</guid>  
+      <pubDate>Fri, 20 Mar 2015 05:43:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784035_153886312.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784036_153886312.jpg"/> 
+    </item>  
+    <item> 
+      <title>Teenager hit by police car dies</title>  
+      <description>A 16-year-old boy hit by a police car in Birmingham has died, police say.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-birmingham-31978314#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-birmingham-31978314</guid>  
+      <pubDate>Thu, 19 Mar 2015 21:38:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781900_erdingtonp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781901_erdingtonp.jpg"/> 
+    </item>  
+    <item> 
+      <title>Rape suspect 'followed other women'</title>  
+      <description>A man who raped a woman in Leeds is believed to have followed two other women before the attack, police say.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-leeds-31961678#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-leeds-31961678</guid>  
+      <pubDate>Thu, 19 Mar 2015 12:14:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81761000/jpg/_81761780_leedsrapecctv.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81761000/jpg/_81761781_leedsrapecctv.jpg"/> 
+    </item>  
+    <item> 
+      <title>Illegal migrants smuggled out of UK</title>  
+      <description>Illegal immigrants are being smuggled out of the UK via Dover to evade deportation then smuggled back, a BBC investigation has found.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-31871532#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-31871532</guid>  
+      <pubDate>Thu, 19 Mar 2015 19:59:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81774000/jpg/_81774362_lorrycomp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81774000/jpg/_81774363_lorrycomp.jpg"/> 
+    </item>  
+    <item> 
+      <title>Duckenfield 'not experienced enough'</title>  
+      <description>David Duckenfield's role as police match commander for the FA Cup semi-final on the day of the Hillsborough disaster was a "step too far for him," an expert says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-merseyside-31959432#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-merseyside-31959432</guid>  
+      <pubDate>Thu, 19 Mar 2015 18:22:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81774000/jpg/_81774645_26a0c15b-d492-47f1-a18c-ca72eb4a69e5.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81774000/jpg/_81774646_26a0c15b-d492-47f1-a18c-ca72eb4a69e5.jpg"/> 
+    </item>  
+    <item> 
+      <title>Baby shaker caused internal bleeding</title>  
+      <description>A man who shook a one-month-old baby so hard the child suffered head injuries is given a hospital order.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-devon-31974651#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-devon-31974651</guid>  
+      <pubDate>Thu, 19 Mar 2015 18:37:43 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81776000/jpg/_81776681_58286547.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81776000/jpg/_81776682_58286547.jpg"/> 
+    </item>  
+    <item> 
+      <title>Author subject of road sign gaffe</title>  
+      <description>Jane Austen's name is spelt incorrectly on a sign directing literary fans to a museum dedicated to the author.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-hampshire-31963760#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-hampshire-31963760</guid>  
+      <pubDate>Thu, 19 Mar 2015 17:01:43 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81775000/jpg/_81775802_81770976.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81775000/jpg/_81775803_81770976.jpg"/> 
+    </item>  
+    <item> 
+      <title>Beavers on River Otter 'native'</title>  
+      <description>Wild beavers found living on the River Otter in Devon are a species which was once native to the UK, tests confirm.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-devon-31971066#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-devon-31971066</guid>  
+      <pubDate>Thu, 19 Mar 2015 16:37:50 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81773000/jpg/_81773184_beaver2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81773000/jpg/_81773185_beaver2.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pietersen motivated by Ashes return</title>  
+      <description>Kevin Pietersen wants a face-to-face meeting with new ECB chairman Colin Graves as he targets an Ashes comeback.</description>  
+      <link>http://www.bbc.co.uk/sport/0/cricket/31979561</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/cricket/31979561</guid>  
+      <pubDate>Fri, 20 Mar 2015 07:00:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784471_pietersen.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784472_pietersen.jpg"/> 
+    </item>  
+    <item> 
+      <title>Exit not defence's fault - Martinez</title>  
+      <description>Roberto Martinez highlights quality finishing rather than poor defending in Everton's Europa League exit to Dynamo Kiev.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/31978058</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/31978058</guid>  
+      <pubDate>Thu, 19 Mar 2015 22:22:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784458_rossbarkley.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81784000/jpg/_81784459_rossbarkley.jpg"/> 
+    </item>  
+    <item> 
+      <title>Belles win 3-0 but 'need to improve'</title>  
+      <description>Doncaster Rovers Belles beat Durham 3-0 in the Women's Super League Two, but coach Glen Harris says they can do better.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/31981730</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/31981730</guid>  
+      <pubDate>Fri, 20 Mar 2015 09:12:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/81787000/jpg/_81787065_wsldonny2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81787000/jpg/_81787066_wsldonny2.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Public Accounts Committee</title>  
+      <description>The Public Accounts Committee take evidence on Aspire and higher education.</description>  
+      <link>http://www.bbc.co.uk/democracylive/house-of-commons-31906796</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/democracylive/house-of-commons-31906796</guid>  
+      <pubDate>Tue, 17 Mar 2015 17:20:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81702000/jpg/_81702919_81701624.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81705000/jpg/_81705847_81701624.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Teen shot by Taliban plans city move</title>  
+      <description>A Pakistani teenager who had surgery in Birmingham after being shot by the Taliban has said he plans to start school in the city.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-31973198#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-31973198</guid>  
+      <pubDate>Fri, 20 Mar 2015 10:09:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781584_ahmadnawaz-exmt.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81781000/jpg/_81781585_ahmadnawaz-exmt.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Last Post tribute for WW2 bugler</title>  
+      <description>Buglers played the Last Post at the funeral of a former Japanese prisoner of war who marked the deaths of his fellow captives with the same tribute during World War Two.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-manchester-31970300#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-manchester-31970300</guid>  
+      <pubDate>Thu, 19 Mar 2015 16:13:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81773000/jpg/_81773440_81768672.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81773000/jpg/_81773441_81768672.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Toxic smog prompts health warning</title>  
+      <description>People who suffer from breathing difficulties are being warned about a potentially harmful cloud of smog covering parts of the UK.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-31962431#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-31962431</guid>  
+      <pubDate>Thu, 19 Mar 2015 12:11:53 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81760000/jpg/_81760180_81757413.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81760000/jpg/_81760181_81757413.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Finger bite attack caught on CCTV</title>  
+      <description>CCTV footage shows Paul Rowe biting off the top of a man's finger during a drunken brawl in Southampton.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-hampshire-31963756#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-hampshire-31963756</guid>  
+      <pubDate>Thu, 19 Mar 2015 13:26:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81762000/jpg/_81762807_81762802.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81763000/jpg/_81763232_81762802.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Full-time teacher, part-time lifesaver</title>  
+      <description>Students from Mounts Bay Academy look into the school's long association with the Penlee Lifeboat station and the role played by their teacher and lifeboat volunteer.</description>  
+      <link>http://www.bbc.co.uk/schoolreport/31877729</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/schoolreport/31877729</guid>  
+      <pubDate>Thu, 19 Mar 2015 10:39:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81634000/jpg/_81634084_penlee7.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81634000/jpg/_81634085_penlee7.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Claudia Lawrence CCTV released</title>  
+      <description>Detectives looking for the killer of Claudia Lawrence have released new CCTV footage to coincide with the 6th anniversary of her disappearance.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-31960502#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-31960502</guid>  
+      <pubDate>Thu, 19 Mar 2015 10:25:14 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81755000/jpg/_81755820_81750330.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81755000/jpg/_81755821_81750330.jpg"/> 
+    </item>  
+    <item> 
+      <title>Follow BBC Richard III on WhatsApp</title>  
+      <description>Follow BBC Richard III coverage with phone updates</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-leicestershire-31593881#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-leicestershire-31593881</guid>  
+      <pubDate>Sat, 28 Feb 2015 08:00:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81188000/jpg/_81188047_skullfacecompbig.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81188000/jpg/_81188048_skullfacecompbig.jpg"/> 
+    </item>  
+    <item> 
+      <title>In pictures: Solar eclipse</title>  
+      <description>People across the UK gather to see the solar eclipse</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-31981666#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-31981666</guid>  
+      <pubDate>Fri, 20 Mar 2015 10:41:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81786000/jpg/_81786984_4f8e2a90-5366-4b33-9253-6d2678057f85.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81786000/jpg/_81786985_4f8e2a90-5366-4b33-9253-6d2678057f85.jpg"/> 
+    </item>  
+    <item> 
+      <title>Heritage line celebrates 50 years</title>  
+      <description>Heritage line celebrates 50 years</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-hereford-worcester-31967247#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-hereford-worcester-31967247</guid>  
+      <pubDate>Fri, 20 Mar 2015 06:44:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81769000/jpg/_81769901_arley_station_1932_976.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81769000/jpg/_81769902_arley_station_1932_976.jpg"/> 
+    </item>  
+    <item> 
+      <title>A key week for Hillsborough inquests</title>  
+      <description>What have we learned from David Duckenfield's evidence?</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-merseyside-31941691#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-merseyside-31941691</guid>  
+      <pubDate>Thu, 19 Mar 2015 08:43:43 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81750000/jpg/_81750632_81730674.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81750000/jpg/_81750633_81730674.jpg"/> 
+    </item>  
+    <item> 
+      <title>MOTD makes difference for SEN pupils</title>  
+      <description>MOTD makes difference for SEN pupils</description>  
+      <link>http://www.bbc.co.uk/schoolreport/31907242</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/schoolreport/31907242</guid>  
+      <pubDate>Thu, 19 Mar 2015 09:08:23 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81685000/jpg/_81685729_lancasterian7.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81685000/jpg/_81685730_lancasterian7.jpg"/> 
+    </item> 
+  </channel> 
+</rss>
