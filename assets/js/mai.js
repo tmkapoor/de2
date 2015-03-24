@@ -109,7 +109,7 @@ $(document).ready(function($) {
 
 		    var content = "";
 
-		    content += "<div class='col-md-8 col-xs-12'> <h2>"+  contentItem["title"] +"</h2> <h3>"+ contentItem['desc'] +"</h3> </br> <a href='/stage3' class='btn btn-lg btn-primary' >View on timeline</a> </div>";
+		    content += "<div class='col-md-8 col-xs-12'> <h3>"+  contentItem["title"] +"</h3> <p>"+ contentItem['desc'] +"</p> </br> <a href='/stage3' class='btn btn-lg btn-primary' >View on timeline</a> </div>";
 
 		    content += "<div class='col-md-4 col-xs-12'> <img src='" + contentItem['img'] + "' /></div>";
 
@@ -129,6 +129,24 @@ $(document).ready(function($) {
 		});
 
 		$(".modal-bg").click(function(e){
+			if(modalOn){
+				var floatingBlock = $(".floating");
+				var modalBG = $('.modal-bg');
+
+				floatingBlock.show().animate({left: "10%"}, 200);
+				$('html, body').animate({
+			        scrollTop: clickedCardlink.offset().top
+			    }, "fast");
+
+				floatingBlock.hide().animate({left: "100%"}, 200);
+
+				modalBG.hide();
+				modalOn = false;
+
+			}
+		});
+
+		$(".modal-close").click(function(e){
 			if(modalOn){
 				var floatingBlock = $(".floating");
 				var modalBG = $('.modal-bg');

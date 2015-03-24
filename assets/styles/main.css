@@ -36,18 +36,17 @@ footer{
 
 .floating{
 	position: absolute;
-	width: 100%;
+	width: 90%;
 	background: white;
 	border-radius: 1em;
 	left: 100%;
-	top: 10%;
+	top: 5%;
 	display: none;
 	z-index: 9999;
 }
 
 .floating div{
-	padding-top: 1.5em;
-	padding-bottom: 1.5em;
+
 }
 
 .clickable{
