@@ -167,22 +167,30 @@ $(document).ready(function($) {
 		$(".buttons-holder div").click(function(event) {
 			if($(this).hasClass('deeper')){
 				if(depth >= 0 && depth < 2){
-					var levelToHide = ".level" + depth;
-					depth++;
-					var levelToShow = ".level" + depth;
+					$(".deeper-notify").fadeIn(800, function() {
+						var levelToHide = ".level" + depth;
+						depth++;
+						var levelToShow = ".level" + depth;
 
-					$("div"+levelToHide).slideUp("slow");
-					$(levelToShow).slideDown('"slow"', function() {});
+						$("div"+levelToHide).slideUp("slow");
+						$(levelToShow).slideDown('"slow"', function() {});
+						$(".deeper-notify").fadeOut('slow', function() {});
+					});
+						
 				}
 			}
 			else if($(this).hasClass('shallow')){
 				if(depth > 0 && depth <= 2){
-					var levelToHide = ".level" + depth;
-					depth--;
-					var levelToShow = ".level" + depth;
+					$(".shallow-notify").fadeIn(800, function() {
+						var levelToHide = ".level" + depth;
+						depth--;
+						var levelToShow = ".level" + depth;
 
-					$(levelToHide).slideUp("slow");
-					$(levelToShow).slideDown('"slow"', function() {});
+						$(levelToHide).slideUp("slow");
+						$(levelToShow).slideDown('"slow"', function() {});
+						$(".shallow-notify").fadeOut('slow', function() {});
+					});
+					
 				}
 			}
 			else if ($(this).hasClass('timeline')){

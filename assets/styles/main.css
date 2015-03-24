@@ -156,5 +156,20 @@ footer{
 	display: none;
 }
 
+.notify{
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	position: fixed;
+	font-size: 1.5em;
+	left: 20%;
+	top: 50%;
+	border-radius: 1em;
+	background: rgba(0,0,0,0.45);
+	color: white;
+	display: none;
+}
+
 
 /*Id based styling*/ 
