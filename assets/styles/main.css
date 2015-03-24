@@ -19,6 +19,16 @@ img{
 	height: auto;
 }
 
+footer{
+	position: relative;
+	top: +10px;
+	padding-top: 2em;
+	padding-left: 5em;
+	padding-bottom: 5em;
+	background: #232323;
+	color: white;
+}
+
 /*Class based styling*/
 .headline{
 	font-size: 1.64em;
@@ -108,6 +118,42 @@ img{
 }
 
 .extra-info{
+	display: none;
+}
+
+.bulleted{
+	font-weight: bold;
+}
+
+.buttons-holder{
+	position: fixed;
+	bottom: 0;
+	right:0;
+	z-index: 9990;
+}
+
+.round-button{
+	padding-top: 16px;
+	margin-top: 1em;
+	text-align: center;
+	background: red;
+	width: 64px;
+	height: 64px;
+}
+
+.deeper{
+	background: #F57C00;
+}
+
+.shallow{
+	background: #FF9800;
+}
+
+.timeline{
+	background: #FFB74D;
+}
+
+.removed{
 	display: none;
 }
 
