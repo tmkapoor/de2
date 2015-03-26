@@ -215,8 +215,17 @@ $(document).ready(function($) {
 
 	if(page == "3"){
 		$(".clickable").click(function(event) {
-			$(".removed").slideUp('slow');
-			$(this).find(".removed").slideDown('slow', function() {});
+
+			var thisElement = $(this);
+
+			if(!(thisElement.find(".removed").is(":visible"))){
+				$(".removed").slideUp('slow');
+				thisElement.find(".removed").slideDown('slow', function() {
+					$('html, body').animate({
+				        scrollTop: thisElement.offset().top - 15
+				    }, "fast");
+				});
+			}
 		});
 	}
 
